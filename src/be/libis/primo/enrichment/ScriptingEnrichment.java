@@ -19,7 +19,7 @@ import org.w3c.dom.Document;
 
 /**
  *
- * @author mehmetc
+ * @author Mehmet Celik LIBIS/K.U.Leuven
  */
 public class ScriptingEnrichment implements EnrichmentPlugIn {
 

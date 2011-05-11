@@ -23,7 +23,7 @@ import javax.script.ScriptEngineManager;
 
 /**
  *
- * @author mehmetc
+ * @author Mehmet Celik LIBIS/K.U.Leuven
  */
 public class EnrichmentScriptManager {
 
